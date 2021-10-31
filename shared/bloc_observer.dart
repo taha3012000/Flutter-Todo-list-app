@@ -1,4 +1,4 @@
-/*import 'package:bloc/bloc.dart';
+import 'package:bloc/bloc.dart';
 
 class MyBlocObserver extends BlocObserver {
   @override
@@ -24,4 +24,4 @@ class MyBlocObserver extends BlocObserver {
     super.onClose(bloc);
     print('onClose -- ${bloc.runtimeType}');
   }
-}*/
+}
