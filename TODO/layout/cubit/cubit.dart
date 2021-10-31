@@ -1,4 +1,4 @@
-/*
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sqflite/sqlite_api.dart';
@@ -144,4 +144,4 @@ class AppCubit extends Cubit<AppStates> {
     emit(AppChangeBottomSheetState());
   }
 }
-*/
+}
